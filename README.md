@@ -1,6 +1,6 @@
 ## Schnaz
 ### Mechanical Engineering / Computer Science
-I am dual major. I have already completed a degree in ME, and am now pursuing a degree in CS  
+I have already completed a degree in ME, and am now pursuing a degree in CS  
    
 #### Project #1 - 3D Model Maker for GMS2
 Game maker studio 2 has very limited options for creating games in 3D. By creating a model maker and 3D renderer from the ground up within the engine, it can help diminish these limitations. It also removes the need to use blender or to port things over from other software. Lastly, by coding a 3D model maker from scratch, one can give it any function that is needed without the need for modding.  
