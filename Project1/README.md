@@ -1,3 +1,8 @@
 ## 3D Model maker for GMS2
 
-This is the code for the 3D model maker. It currently isn't in a usable state and still requires some tweaking.
+<div align="center">
+
+### Project files for the 3D model maker. It currently isn't very user friendly, but it is functional.
+![](ModelMaker.jpg)
+
+</div>
