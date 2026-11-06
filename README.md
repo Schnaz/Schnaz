@@ -1,13 +1,45 @@
 ## Schnaz
 ### Mechanical Engineering / Computer Science
 I have already completed a degree in ME, and am now pursuing a degree in CS  
-   
-#### Project #1 - 3D Model Maker for GMS2
-Game maker studio 2 has very limited options for creating games in 3D. By creating a model maker and 3D renderer from the ground up within the engine, it can help diminish these limitations. It also removes the need to use blender or to port things over from other software. Lastly, by coding a 3D model maker from scratch, one can give it any function that is needed without the need for modding.  
-   
-#### Project #2 - Rudimentary MMO
-The idea is to create a massively multiplayer game that requires an absurdly low amount of traffic and data transfer. Given that servers are usually billed for their outbound data transfer as well as memory and CPU, I will be using a variety of techniques to lessen the load:
-- Do nearly all calculations clientside
-- Put limits on sendable information that remove any benefits from cheating
-- Build the game around only needing to send a single string to resolve an entire battle
-- Have it set up to be an MMO (but only share access among my friends to help prevent attacks)
+
+## Projects
+
+> ## HTML
+> > ### Minigame
+> > - A small minigame made from scratch to test out webGL2. It can be played from the link in the repository
+> > 
+> > Repository URL: https://github.com/Schnaz/Minigame
+> 
+> > ### LogReg
+> > - Another small (soon to be) web app for running different different versions of logistic regression in the browser on an uploaded csv doucument
+> >
+> > Repository URL: https://github.com/Schnaz/Machine_Learning/tree/main/Supervised
+>
+> > ### KCMeans
+> > - A small (soon to be) web app for running different clustering formula in the browser on an uploaded csv doucument
+> >
+> > Repository URL: https://github.com/Schnaz/Machine_Learning/tree/main/Unsupervised
+>
+> > ### Train Table
+> > - A small web app run upon a distributed system using AWS lambda functions and S3 buckets.
+> > - The program lets one build a 3D AR slideshow using model urls along with an HTML form.
+> > - Once a slideshow is saved or loaded, a QR code will be shown that lets users experience it on mobile.
+> > - While the web service is currently down, there will soon be a mock up on github pages that will provide a demo
+> >
+> > Repository URL: (WIP)
+
+> ## GMS
+> > ### Twisted World
+> > - My second game jam submission. Theme: Abberation
+> > - Because the theme of the jam was abberation (and also because the time limit was around 1 week) the game turned out exceedingly weird
+> > - It is a metroidvania with the gimmick of rotating the gravity.
+> > Repository URL: https://github.com/Schnaz/GMS_Projects/tree/main/Twisted%20World
+> >
+> > Itch URL: https://shnaz.itch.io/twistedworld
+> 
+> > ### Hotfix
+> > - My first game jam submission. Theme: Rebuild and Repair
+> > - It is a metroidvania with the idea that many vital mechanics are missing from the get go. As it is one of my earlier games it is a bit rough around the edges
+> > Repository URL: https://github.com/Schnaz/GMS_Projects/tree/main/Hotfix
+> > 
+> > Itch URL: https://shnaz.itch.io/hotfix
