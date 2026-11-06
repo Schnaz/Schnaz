@@ -33,6 +33,7 @@ I have already completed a degree in ME, and am now pursuing a degree in CS
 > > - My second game jam submission. Theme: Abberation
 > > - Because the theme of the jam was abberation (and also because the time limit was around 1 week) the game turned out exceedingly weird
 > > - It is a metroidvania with the gimmick of rotating the gravity.
+> > 
 > > Repository URL: https://github.com/Schnaz/GMS_Projects/tree/main/Twisted%20World
 > >
 > > Itch URL: https://shnaz.itch.io/twistedworld
@@ -40,6 +41,7 @@ I have already completed a degree in ME, and am now pursuing a degree in CS
 > > ### Hotfix
 > > - My first game jam submission. Theme: Rebuild and Repair
 > > - It is a metroidvania with the idea that many vital mechanics are missing from the get go. As it is one of my earlier games it is a bit rough around the edges
+> > 
 > > Repository URL: https://github.com/Schnaz/GMS_Projects/tree/main/Hotfix
 > > 
 > > Itch URL: https://shnaz.itch.io/hotfix
