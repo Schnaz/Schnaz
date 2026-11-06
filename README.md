@@ -1,4 +1,4 @@
-## Schnaz
+# Schnaz
 ### Mechanical Engineering / Computer Science
 I have already completed a degree in ME, and am now pursuing a degree in CS  
 
